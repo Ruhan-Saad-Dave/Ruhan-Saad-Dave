@@ -1,4 +1,14 @@
-### Hi there 👋
+# About me
+I am a Computer Engineering student studying in 1st year, in Dr.D.Y.Patil Institute of Engineering, Management and Research, Akurdi
+
+<br> Wants to work as : Python developer, Machine Learning Engineer,  Data scientist
+<br> Programming languages known : Python
+<br> Programming Concepts known : OOPS (Object Oriented Programming), GUI (using Kivy), MySQL (basics)
+<br> Currently learning : Data Manipulation (Numpy, Pandas), Machine Learning concepts, DSA (Data Structures and Algorithms)
+<br> Languages I can speak on : English, Hindi, Chinese (Elementary)
+<br> Skills I'm good at : Communication, Leadership, Problem solving, Using AI Tools, Taking Initiative
+<br> <br><br>
+I would like to collaborate with different users and upskill myself, I am open to growth and opportunities.
 
 <!--
 **Ruhan-Saad-Dave/Ruhan-Saad-Dave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
