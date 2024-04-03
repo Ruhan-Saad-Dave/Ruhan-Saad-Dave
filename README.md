@@ -4,10 +4,10 @@ I am a Computer Engineering student studying in 1st year, in Dr.D.Y.Patil Instit
 <br> Wants to work as : Python developer, Machine Learning Engineer,  Data scientist
 <br> Currently working on a college project for submissions.
 <br> Programming languages known : Python
-<br> Programming Concepts known : OOPS (Object Oriented Programming), GUI (using Kivy), MySQL (basics)
-<br> Currently learning : Data Manipulation (Numpy, Pandas), Machine Learning Algorithm, DSA (Data Structures and Algorithms)
+<br> Programming Concepts known : OOPS (Object Oriented Programming), Data Manipulation (Numpy, Pandas), GUI (using Kivy), MySQL (basics)
+<br> Currently learning :  Machine Learning Algorithm, DSA (Data Structures and Algorithms)
 <br> Languages I can speak on : English, Hindi, Chinese (Elementary)
-<br> Skills I'm good at : Communication, Leadership, Problem solving, Using AI Tools, Taking Initiative
+<br> Skills I'm good at : Communication, Leadership, Problem solving, Using AI Tools (ChatGPT, Google Gemini), Taking Initiative
 <br> <br><br>
 I would like to collaborate with different users and upskill myself, I am open to growth and opportunities.
 
