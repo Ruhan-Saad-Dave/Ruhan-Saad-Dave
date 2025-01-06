@@ -1,10 +1,10 @@
 # About me
 Greetings dear curious one, thank you for sparing a moment to know more about me.
 <br>I am Ruhan Saad Dave, a computer science student studing in 2nd year at Dr.D.Y.Patil Institute of Engineering, Management and Research, Akurdi. My interest in making computer software is a result of many years of video game addiction, particularly "Minecarft", where a sudden realization made me want to use my creativity and problem solving skills. 
-<br> I have a great interest in Artificial Intelligence, Robotics and Quantum Computing. Here are some more details about me:
+<br> I have a great interest in Artificial Intelligence, Robotics and Gaming. Here are some more details about me:
 <br>
-<br>Programming languages: Python, C++, MySQL
-<br>Framework: Numpy, Pandas, Matplotlib, Seaborn, Scikit Learn, Kivy
+<br>Programming languages: Python, C++, MySQL, Java
+<br>Framework: Numpy, Pandas, Matplotlib, Seaborn, Scikit Learn, Kivy, Tensorflow
 <br>Skills: Machine Learning, Database management, cloud computing (basic on GCP), quantum computing (basics), Editing
 <br>Technologies: Github, VSCode, Google Collab, Microsoft Excel, Canva, ChatGPT (and other AI tools), Google Workspace (Gmail, Meet, google sheets etc), Google cloud (basics)
 
